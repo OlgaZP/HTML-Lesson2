@@ -1,0 +1,8 @@
+#don't push local configuration for vscode 
+.vscode/
+#ignore Dolphin configuration
+.directory
+
+#.*
+
+#!.gitignore
